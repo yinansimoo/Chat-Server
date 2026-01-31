@@ -1,0 +1,3 @@
+/home/simo/code/testjson/build/CMakeFiles/server.dir
+/home/simo/code/testjson/build/CMakeFiles/edit_cache.dir
+/home/simo/code/testjson/build/CMakeFiles/rebuild_cache.dir
